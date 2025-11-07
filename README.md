@@ -51,7 +51,6 @@ plt.plot(t,s)
 
 <img width="721" height="549" alt="Screenshot 2025-11-07 213153" src="https://github.com/user-attachments/assets/f84caa50-7c98-447f-8865-379cd72fd5ea" />
 
-
 ## Tabular Column
 
 <img width="589" height="408" alt="Screenshot 2025-11-04 230952" src="https://github.com/user-attachments/assets/50443aaa-b6a7-49f7-b52f-55ce638b26bc" />

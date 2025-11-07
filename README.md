@@ -49,12 +49,13 @@ plt.plot(t,s)
 
 ## Output Waveform
 
-<img width="721" height="549" alt="Screenshot 2025-11-07 213153" src="https://github.com/user-attachments/assets/59076873-d62e-4c59-ac0e-956e75b3a495" />
+<img width="721" height="549" alt="Screenshot 2025-11-07 213153" src="https://github.com/user-attachments/assets/f84caa50-7c98-447f-8865-379cd72fd5ea" />
 
 
 ## Tabular Column
 
-<img width="806" height="648" alt="image" src="https://github.com/user-attachments/assets/d4a3cb50-23dc-4d0d-a139-d1c89a7aa184" />
+<img width="589" height="408" alt="Screenshot 2025-11-04 230952" src="https://github.com/user-attachments/assets/50443aaa-b6a7-49f7-b52f-55ce638b26bc" />
+
 
 ## Result
 
